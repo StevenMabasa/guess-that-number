@@ -92,7 +92,7 @@ python guessing_game.py
 guess-that-number/
 ├── guessing_game_gui.py   # Desktop version built with tkinter
 ├── guessing_game.py       # Terminal version
-├── tkinter_guide       # A guide to using tkinter
+├── tkinter_guide          # A guide to using tkinter
 └── README.md              # This file
 ```
 
