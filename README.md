@@ -92,6 +92,7 @@ python guessing_game.py
 guess-that-number/
 ├── guessing_game_gui.py   # Desktop version built with tkinter
 ├── guessing_game.py       # Terminal version
+├── tkinter_guide       # A guide to using tkinter
 └── README.md              # This file
 ```
 
@@ -134,9 +135,3 @@ This was my first project using tkinter. Building it taught me:
 
 ---
 
-## Future Ideas
-
-- Press Enter to submit a guess in the desktop version
-- Track the best score across games
-- Add difficulty levels (1–10, 1–100, 1–1000)
-- Show a history of previous guesses
